@@ -218,6 +218,7 @@ jobs:
           high_carb_limit \
           now_line \
           watch_title \
+          negative_insulin \
           basal_lock
 
           # the final customization listed above CANNOT have a continuation character
